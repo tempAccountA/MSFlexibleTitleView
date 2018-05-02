@@ -1,0 +1,16 @@
+PODS:
+  - MSFlexibleTitleView (1.0.0)
+
+DEPENDENCIES:
+  - MSFlexibleTitleView
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - MSFlexibleTitleView
+
+SPEC CHECKSUMS:
+  MSFlexibleTitleView: 48a972be4a8d9e562133b04b3dfb8b77b53bafa2
+
+PODFILE CHECKSUM: 84e570653eb8b436525bb1ecde0f058e437edecf
+
+COCOAPODS: 1.5.3
